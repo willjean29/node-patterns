@@ -76,9 +76,9 @@ function main() {
     push: new PushNotificationFactory(),
   };
 
-  const factory = factories["email"];
-  const notification = factory.createNotification();
-  notification.send("Hola desde Factory Method");
+  const factory = factories["sms"];
+  // const notification = factory.createNotification();
+  factory.notify("Hola desde Factory Method");
 }
 
 main();
