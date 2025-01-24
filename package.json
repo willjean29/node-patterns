@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --respawn creationals/factory-method/01-factory.ts",
+    "dev": "ts-node-dev --respawn creationals/abstract-factory/01-factory.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
