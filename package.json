@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --respawn creationals/singleton/02-singleton.ts",
+    "dev": "ts-node-dev --respawn structurals/adapter/02-adapter.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
