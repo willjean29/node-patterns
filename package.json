@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --respawn structurals/composite/01-composite.ts",
+    "dev": "ts-node-dev --respawn structurals/composite/02-composite.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
